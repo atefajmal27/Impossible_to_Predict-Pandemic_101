@@ -24,4 +24,4 @@ Industries we looked at: (Click on the industries to see our data collection and
 
 ### Results
 Even though most industries failed to meet the expectation, some were able to meet and beat the prediction such as technology, cryptocurrency industry etc.
-Here is a Covid Proof Portfolio consisting some of the stocks with highest returns:
+![record](https://user-images.githubusercontent.com/62320593/91127755-eae9b100-e674-11ea-9cca-679e105cf99b.gif)
