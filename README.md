@@ -21,3 +21,7 @@ Industries we looked at: (Click on the industries to see our data collection and
 [Energy, Retail](https://github.com/atefajmal27/group5/blob/master/KellyeTeam5Project.ipynb) by Kelley <br/>
 [Devidend Stocks, EFTs]() by Joaquim <br/>
 [Commodities, Digital Currencies](https://github.com/atefajmal27/group5/blob/add-project-outline/Entire%20Covid%20Market%20Projection%20-%20Currency-checkpoint.ipynb) by Philip <br/>
+
+### Results
+Even though most industries failed to meet the expectation, some were able to meet and beat the prediction such as technology, cryptocurrency industry etc.
+Here is a Covid Proof Portfolio consisting some of the stocks with highest returns:
