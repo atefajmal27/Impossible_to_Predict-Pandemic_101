@@ -29,6 +29,12 @@ Even though most industries failed to meet the expectation, some were able to me
 
 Click [here](https://github.com/atefajmal27/group5/blob/master/Resources/final_dashboard.ipynb) to view the code and visuals for more details on our dashboard.
 
+### Ideal Portfolio
+Using our finding, we created a portfolio to present a "Covid Proof Portfolio" with 269% return.
+
+<img width="710" alt="image" src="https://user-images.githubusercontent.com/62320593/91129684-6a2cb400-e678-11ea-838f-401011edd4f4.png">
+
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/62320593/91129729-7ca6ed80-e678-11ea-8966-12f70574d86e.png">
 
 
 
