@@ -23,7 +23,7 @@ Industries we looked at: (Click on the industries to see our data collection and
 [Commodities, Digital Currencies](https://github.com/atefajmal27/group5/blob/add-project-outline/Entire%20Covid%20Market%20Projection%20-%20Currency-checkpoint.ipynb) by Philip <br/>
 
 ### Results
-Even though most industries failed to meet the expectation, some were able to meet and beat the prediction such as technology, cryptocurrency industry etc. Here is a gif to show each portfolio's return distribution according to thousands of simulations that we ran. The red lines represents 95% confidence interval and the orange line represents the confidence level on the actual return. <br/> 
+Even though most industries failed to meet the expectation, some were able to meet and beat the prediction such as technology, cryptocurrency industry etc. Here is a gif to show each portfolio's return distribution according to thousands of simulations that we ran. The red lines represents 95% confidence interval and the orange line represents the confidence level of the actual return. <br/> 
 
 ![record](https://user-images.githubusercontent.com/62320593/91127755-eae9b100-e674-11ea-9cca-679e105cf99b.gif)
 
