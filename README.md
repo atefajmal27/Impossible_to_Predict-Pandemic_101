@@ -27,6 +27,8 @@ Even though most industries failed to meet the expectation, some were able to me
 
 ![record](https://user-images.githubusercontent.com/62320593/91127755-eae9b100-e674-11ea-9cca-679e105cf99b.gif)
 
-Click [here](https://github.com/atefajmal27/group5/blob/master/Resources/final_dashboard.ipynb) to view the code for more details on our dashboard.
+Click [here](https://github.com/atefajmal27/group5/blob/master/Resources/final_dashboard.ipynb) to view the code and visuals for more details on our dashboard.
+
+
 
 
