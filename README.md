@@ -11,4 +11,7 @@ Even doing thousands of simulations, using data from multi-years back, the model
 With hindsight, what would have been an excellent portfolio heading into the pandemic? This would be the ideal pandemic portfolio.
 
 ### Execution
-Get 1-3 years of stock prices of different industries before COVID-19 hit the stock market using API and Google Finance. Run thousands of simulations to compare the predicted returns to the actual returns.
+Get 1-3 years of stock prices of different industries before COVID-19 hit the stock market (Feb 15th) using API and Google Finance. Run thousands of simulations to compare the predicted returns to the actual returns. <br/>
+
+Find out the industries that beat the market and create an ideal portfolio.
+
