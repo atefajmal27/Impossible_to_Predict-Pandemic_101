@@ -19,5 +19,5 @@ Find out the industries that beat the market and create an ideal portfolio.
 Industries we looked at: (Click on the industries to see our data collection and calculation process) <br/>
 [Technology, Pharmaceutical, Travel](https://github.com/atefajmal27/group5/blob/add-project-outline/tech_pharma_travel.ipynb) by Atef <br/>
 [Energy, Retail](https://github.com/atefajmal27/group5/blob/master/KellyeTeam5Project.ipynb) by Kelley <br/>
-[Devidend Stocks, EFTs]() by Juaquim <br/>
+[Devidend Stocks, EFTs]() by Joaquim <br/>
 [Commodities, Digital Currencies](https://github.com/atefajmal27/group5/blob/add-project-outline/Entire%20Covid%20Market%20Projection%20-%20Currency-checkpoint.ipynb) by Philip <br/>
