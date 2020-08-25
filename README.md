@@ -15,3 +15,9 @@ Get 1-3 years of stock prices of different industries before COVID-19 hit the st
 
 Find out the industries that beat the market and create an ideal portfolio.
 
+#### Calculations
+Industries we looked at: <br/>
+[Technology, Pharmaceutical, Travel](https://github.com/atefajmal27/group5/blob/add-project-outline/tech_pharma_travel.ipynb) by Atef <br/>
+[Energy, Retail](https://github.com/atefajmal27/group5/blob/master/KellyeTeam5Project.ipynb) by Kelley <br/>
+[Devidend Stocks, EFTs]() by Juaquim <br/>
+[Commodities, Digital Currencies](https://github.com/atefajmal27/group5/blob/add-project-outline/Entire%20Covid%20Market%20Projection%20-%20Currency-checkpoint.ipynb) by Philip <br/>
