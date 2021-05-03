@@ -1,6 +1,4 @@
 #                                                                 Impossible to Predict: Pandemic 101
-Team 5 <br/>
-Atef, Joaquim, Kellye, & Philip
 
 ## Project Objectives
 #### Monte Carlo Predictions
